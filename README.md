@@ -9,7 +9,7 @@
 - 🔭 I currently work at [Kameleoon](https://www.kameleoon.com/)  
   
 
-- 🌱 I’m currently learning Next.js  
+- 🌱 I’m currently learning Electron  
   
 
 <br/>  
